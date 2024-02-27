@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image:url("../img/Batman-Depth-Efect.webp");
+  
+}
+
+.img_sh1{
+  width: 25%;
+}
+
+.img_sh2{
+  width: 15%;
+}
+
+.result {
+  display: none;
+}
+
+#chartContainer{
+  width: auto;
+  height: 31.25rem;
+}
